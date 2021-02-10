@@ -1,0 +1,54 @@
+
+.container {
+    display: flex;
+    background-color: #dedede;
+    padding: 30px;
+    margin: 30px;
+    justify-content: center;
+    border-style: solid;
+    border-color: #999999;
+
+
+}
+
+h1 {
+
+    text-align: center;
+    border-color: #999999;
+    border-style: solid;
+    margin-right: 30px;
+    margin-left: 30px;
+
+    font-family: 'Lexend Mega' !important;
+    color: #5e5e5e !important;
+
+}
+
+#delete {
+    background-color: darkorchid;
+
+}
+
+
+#text {
+    background-color: . bg-secondary
+}
+
+#ekle {
+    margin-top: 30px;
+
+}
+
+btn btn-default btn-xs {
+    color: #00bf00;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+
+#yapıldı:hover, #yapıldı:active {
+    background-color: green;
+    color: white;
+}

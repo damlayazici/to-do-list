@@ -7,4 +7,4 @@ Bu projede amaçlanan yapılacaklar listesinde görülmesi istenen görevlerin k
 Kullanıcı odaklı, kolaylaştırılmış bir tasarım oluşturulmuştur. Bunun sağlanması için flexbox, Bootstrap, CSS, JavaScript, HTML araçları kullanılmıştır.
 
 
-<img src="https://raw.githubusercontent.com/damlayazici/to-do-list/main/anasayfa.PNG" width="600" height="600">
+<img src="https://raw.githubusercontent.com/damlayazici/to-do-list/main/anasayfa.PNG" width="1000" height="600">

@@ -8,22 +8,22 @@ Kullanıcı odaklı, kolaylaştırılmış bir tasarım oluşturulmuştur. Bunun
 
 
 * #### Anasayfa 
-![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/anasayfa.PNG>
+![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/anasayfa.PNG)
 
 
 * #### Liste
-![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/liste.PNG>
+![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/liste.PNG)
 
 
 * #### Json Kayıt
-![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/jsonkayit.PNG>
+![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/jsonkayit.PNG)
 
 
 * #### Güncelleme
-![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/güncelleme.PNG>
+![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/güncelleme.PNG)
 
 * #### Güncel Json
-![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/gunceljson.PNG>
+![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/gunceljson.PNG)
 
 * #### Yapıldı Olarak İşaretle
-![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/yapildi.PNG>
+![anasayfa](https://raw.githubusercontent.com/damlayazici/to-do-list/blob/main/yapildi.PNG)

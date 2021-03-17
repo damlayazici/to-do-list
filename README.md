@@ -12,18 +12,18 @@ Kullanıcı odaklı, kolaylaştırılmış bir tasarım oluşturulmuştur. Bunun
 
 
 * #### Liste
-![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/liste.PNG)
+![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/liste.png)
 
 
 * #### Json Kayıt
-![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/jsonkayit.PNG)
+![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/jsonkayit.png)
 
 
 * #### Güncelleme
-![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/güncelleme.PNG)
+![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/güncelleme.png)
 
 * #### Güncel Json
-![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/gunceljson.PNG)
+![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/gunceljson.png)
 
 * #### Yapıldı Olarak İşaretle
-![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/yapildi.PNG)
+![anasayfa](https://github.com/damlayazici/to-do-list/blob/main/yapildi.png)
